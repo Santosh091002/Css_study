@@ -1,0 +1,33 @@
+h1{
+    color:red;
+}
+p{
+    color: rgb(223, 30, 30);
+}
+button{
+    background-color: pink;
+    
+}
+body{
+    background-color: darkgray;
+}
+
+#head1{
+    color: brown;
+}
+#head2{
+    color: grey;
+}
+
+.myclass1{
+    color:aliceblue
+}
+
+.myclass2{
+    background-color: lightcoral;
+}
+
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
