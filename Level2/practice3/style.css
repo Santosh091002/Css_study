@@ -1,0 +1,28 @@
+body{
+    background-color: darkblue;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#one{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    padding-top: 10px;
+    padding-right: 100px;
+}
+#two{
+    font-size: 25px;
+    color: orange;
+    text-decoration: none;
+}
+button{
+    background-color: orange;
+}

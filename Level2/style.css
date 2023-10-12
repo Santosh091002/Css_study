@@ -5,4 +5,10 @@ div{
     border : 5px solid blue;
     text-align: center;
     border-radius: 5px;
+    font-weight: bolder;
+    padding: 30px;
+    
+}
+p{
+    margin-top: 40px;
 }
