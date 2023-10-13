@@ -8,7 +8,7 @@ body{
     border-radius: 50%;
 }
 
-#one{
+#Nav{
     display: flex;
     justify-content: space-between;
     height: 60px;
