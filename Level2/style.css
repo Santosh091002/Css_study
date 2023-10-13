@@ -1,4 +1,4 @@
-div{
+.box{
     height:100px;
     width: 100px;
     background-color:aqua;
@@ -11,4 +11,30 @@ div{
 }
 p{
     margin-top: 40px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav{
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+
+
+button{
+    background-color: orange;
+}
+
+#four{
+    color: orange;
+    font-size: 25px;
+}
+
+#nav a{
+    margin-right: 200px;
 }
