@@ -1,0 +1,41 @@
+#box1{
+    height: 200px;
+    width: 300px ;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    color:white;
+    text-align: center;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 50px;
+    left:50px;
+    z-index: -1;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    bottom: 10px;
+    left:20px;
+    z-index: 1;
+    text-align: center;
+    font-weight: bolder;
+}
